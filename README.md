@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://unsplash.com/de/fotos/silhouette-von-bergen-in-der-nachtfotografie-v7daTKlZzaw" align="center" style="width: 100%" />
-</div>  
+
   
 
 ### <div align="center">I'm Djordje Mojsilovic, a developer 👨‍💻 learning as an apprentice @google in zurich 🚀</div>  
