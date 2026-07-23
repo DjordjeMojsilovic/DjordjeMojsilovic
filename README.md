@@ -47,4 +47,4 @@
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Want to get in Touch with me? Just write an Email to djordje.mojsilovic2011@gmail.com!</div>
