@@ -4,7 +4,7 @@
 ### <div align="center">I'm Djordje Mojsilovic, a developer 👨‍💻 learning as an apprentice @google in zurich 🚀</div>  
   
 
-- 🔭 I’m currently working on [Moisilos Webpage](https://moisilo.vercel.app)   
+- 🔭 I’m currently working on a quantative Manager for your exoenses with prediction systems to show you what you really lose everytime you buy something.  
   
 
 - 🌱 I’m currently learning Git and Linux and advanced techniques to make my bugs look like intentional features.  
