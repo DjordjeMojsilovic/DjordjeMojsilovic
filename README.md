@@ -66,6 +66,18 @@ Now learning: Finance Theory I (MIT OpenCourseWare).
 
 <br>
 
+## Contributions
+
+A snake eats my GitHub contributions of the last year. A GitHub Action draws it again each day.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DjordjeMojsilovic/DjordjeMojsilovic/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DjordjeMojsilovic/DjordjeMojsilovic/output/github-snake.svg">
+  <img alt="A snake eats my GitHub contribution graph" src="https://raw.githubusercontent.com/DjordjeMojsilovic/DjordjeMojsilovic/output/github-snake.svg" width="100%">
+</picture>
+
+<br>
+
 ## Contact
 
 [djordje.mojsilovic2011@gmail.com](mailto:djordje.mojsilovic2011@gmail.com) · [avtoris.studio](https://avtoris.studio)
